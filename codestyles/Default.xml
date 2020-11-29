@@ -1,5 +1,7 @@
 <code_scheme name="Default" version="173">
   <JSCodeStyleSettings version="0">
+    <option name="ALIGN_VAR_STATEMENTS" value="1" />
+    <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="ALIGN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
   <JSON>
@@ -14,10 +16,15 @@
     <option name="ALIGN_INLINE_COMMENTS" value="true" />
     <option name="ALIGN_CLASS_CONSTANTS" value="true" />
   </PHPCodeStyleSettings>
+  <VueCodeStyleSettings>
+    <option name="UNIFORM_INDENT" value="false" />
+  </VueCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
