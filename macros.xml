@@ -1,0 +1,23 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="&lt;noname&gt;">
+      <typing text-keycode="68:0;84:0;222:0">dt'</typing>
+      <shortuct text="ESCAPE" />
+      <typing text-keycode="65:1">A</typing>
+      <action id="EditorBackSpace" />
+      <shortuct text="BACK_SPACE" />
+      <action id="EditorBackSpace" />
+      <shortuct text="BACK_SPACE" />
+      <action id="EditorBackSpace" />
+      <shortuct text="BACK_SPACE" />
+      <typing text-keycode="222:0;44:0">',</typing>
+      <shortuct text="ESCAPE" />
+      <typing text-keycode="74:0;73:1">jI</typing>
+      <shortuct text="ESCAPE" />
+      <shortuct text="ESCAPE" />
+      <shortuct text="ESCAPE" />
+      <action id="GotoAction" />
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>
